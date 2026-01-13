@@ -1,20 +1,4 @@
 theme: minima
 title: Chess Image Generation: Synthetic to Real
-description: project description goes here
-
-authors:
-  alice:
-    name: Alice Smith
-    role: Backend
-    email: alice@example.com
-    github: alicesmith
-  bob:
-    name: Bob Johnson
-    role: Frontend
-    email: bob@example.com
-    github: bobjohnson
-  carol:
-    name: Carol Lee
-    role: DevOps
-    email: carol@example.com
-    github: carollee
+description: Project description goes here
+author: Alice Smith, Bob Johnson, Carol Lee
