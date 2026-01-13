@@ -1,3 +1,23 @@
+# Site settings
+title: My Awesome Site
+description: "A simple blog using Jekyll and Minima"
+url: "https://username.github.io"   # Replace with your GitHub username URL
+baseurl: ""                         # Leave empty for user/organization pages
+
+# Theme
 theme: minima
-title: Chess Image Generation: Synthetic to Real
-description: Project description goes here
+
+# Author
+author:
+  name: Your Name
+  email: your-email@example.com
+
+# Social links
+social:
+  github: username
+  twitter: yourhandle
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed      # optional: generates RSS feed
